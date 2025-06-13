@@ -1,5 +1,7 @@
 # MtgDeckEval
 
+This application will either take in a deck list or a moxfield URL that then runs the deck through a machine learning model using graph-based metrics to determine synergy level, it then uses a supervised model based on community tags to determine deck power level.
+
 To start your Phoenix server:
 
   * Run `mix setup` to install and setup dependencies
